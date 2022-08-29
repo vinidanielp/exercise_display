@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img alt="Exercise Display"  src="images/display1.png">
+  <img alt="Exercise Display" src="images/display1.png">
   <img alt="Exercise Display" src="images/display2.png">
 </div>
 
